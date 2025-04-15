@@ -7,6 +7,7 @@ export default function Button() {
         borderRadius: '50px',
         border: 'none',
         cursor: 'pointer',
+        margin: '10px',
       }
     
     return (
