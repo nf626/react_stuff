@@ -1,7 +1,7 @@
 export default function Footer() {
     return(
         <footer>
-            <p>&copy;{new Date().getFullYear()} name</p>
+            <p>&copy;{new Date().getFullYear()} Pokemon</p>
         </footer>
     );
 }
